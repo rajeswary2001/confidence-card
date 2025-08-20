@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/confidence-card/static/css/main.7b0ca3d0.css",
+    "main.js": "/confidence-card/static/js/main.d6126f95.js",
+    "index.html": "/confidence-card/index.html",
+    "main.7b0ca3d0.css.map": "/confidence-card/static/css/main.7b0ca3d0.css.map",
+    "main.d6126f95.js.map": "/confidence-card/static/js/main.d6126f95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b0ca3d0.css",
+    "static/js/main.d6126f95.js"
+  ]
+}
