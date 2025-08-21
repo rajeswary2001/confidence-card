@@ -53,6 +53,8 @@ function UploadForm({setData}) {
   
 
   return (
+    <div>
+    <head><title>Confidence Card</title></head>
     <form>
       <label>Name</label>
       <input
@@ -84,6 +86,7 @@ function UploadForm({setData}) {
         <p>{valid ? '': <h2>No face detected</h2>}</p>
       )}
     </form>
+    </div>
   );
 }
 
